@@ -1,13 +1,4 @@
 
-## Instalasi
-#### Via Git
-```bash
-git clone https://github.com/sandinur157/tuturial-membuat-aplikasi-point-of-sales.git
-```
-
-### Download ZIP
-[Link](https://github.com/sandinur157/tuturial-membuat-aplikasi-point-of-sales/archive/refs/heads/main.zip)
-
 ### Setup Aplikasi
 Jalankan perintah 
 ```bash
